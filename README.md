@@ -34,7 +34,7 @@
 ![MicrosoftAzure](https://img.shields.io/badge/-MicrosoftAzure-05122A?style=flat&logo=MicrosoftAzure)&nbsp;
 
   
-## 🛠 &nbsp; studing
+## 🛠 &nbsp; Studying
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
