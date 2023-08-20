@@ -1,8 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/PLINIOVIEIRA/PLINIOVIEIRA/master/hi.gif" height="30px">, I'm Plinio Vieira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PLINIOVIEIRA&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Hoje trabalho com Garantia da Qualidade
-- 🌱 Estudando Segurança da informação
+- 🔭 I’m currently working at Myra Insights
+
+- 🌱 Studying Segurança da informação
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -34,9 +35,8 @@
 ![MicrosoftAzure](https://img.shields.io/badge/-MicrosoftAzure-05122A?style=flat&logo=MicrosoftAzure)&nbsp;
 
   
-## 🛠 &nbsp; Studying
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)&nbsp;
+## 🛠 &nbsp; Learnig
+
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 
