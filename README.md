@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/PLINIOVIEIRA/PLINIOVIEIRA/master/hi.gif" height="30px">, I'm Plinio Vieira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PLINIOVIEIRA&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working at Myra Insights
+- 🔭 I’m currently working at Santander Brasil
 
 - 🌱 Studying Segurança da informação
 
